@@ -1,11 +1,14 @@
 // MyArray.cpp : Defines the entry point for the console application.
-// writen by 192101-01�
+// writen by 192101-01�
 #include "stdafx.h"
 
 #include<iostream>
-#include"ss.h"
-using namespace std;
 
+using std::endl;
+using std::cin;
+using std::cout;
+using std::ios_base;
+#include"ss.h"
 int _tmain(int argc, _TCHAR* argv[])
 
 {
